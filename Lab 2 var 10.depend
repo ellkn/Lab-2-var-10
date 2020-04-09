@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1586456399 source:c:\users\Нелли\desktop\СГТУ\2 СЕМЕСТР\Языки программирования с++\Лабораторная №2\lab 2 var 10\main.cpp
+	<iostream>
+	"Wind.h"
+	<cstring>
+
+1586456401 c:\users\Нелли\desktop\СГТУ\2 СЕМЕСТР\Языки программирования с++\Лабораторная №2\lab 2 var 10\wind.h
+	<iostream>
+	<cstring>
+
+1586456425 source:c:\users\Нелли\desktop\СГТУ\2 СЕМЕСТР\Языки программирования с++\Лабораторная №2\lab 2 var 10\wind.cpp
+	<iostream>
+	<cstring>
+	"Wind.h"
+
